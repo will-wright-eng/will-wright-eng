@@ -2,7 +2,7 @@
 
 ![compare.png](https://github.com/will-wright-eng/will-wright-eng/blob/main/compare.png?raw=true)
 
-[Compare](https://shiptalkers.dev/compare?github=will-wright-eng&twitter=willwrighteng)
+ref: [RhysSullivan/shiptalkers](https://github.com/RhysSullivan/shiptalkers)
 
 <!--
 **will-wright-eng/will-wright-eng** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
