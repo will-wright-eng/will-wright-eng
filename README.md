@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![compare.png]
+![compare.png](https://github.com/will-wright-eng/will-wright-eng/blob/main/compare.png?raw=true)
 
 @willwrighteng spends 90633% more time coding than tweeting
 
