@@ -14,3 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+@willwrighteng spends 90633% more time coding than tweeting
+
+![./compare.png]
+
+[Compare](https://shiptalkers.dev/compare?github=will-wright-eng&twitter=willwrighteng)
