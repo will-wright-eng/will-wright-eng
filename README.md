@@ -15,8 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-@willwrighteng spends 90633% more time coding than tweeting
+![compare.png]
 
-![./compare.png]
+@willwrighteng spends 90633% more time coding than tweeting
 
 [Compare](https://shiptalkers.dev/compare?github=will-wright-eng&twitter=willwrighteng)
