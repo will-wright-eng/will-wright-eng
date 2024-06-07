@@ -1,4 +1,8 @@
-## Hi there 👋
+## 🤷‍♂️
+
+![compare.png](https://github.com/will-wright-eng/will-wright-eng/blob/main/compare.png?raw=true)
+
+[Compare](https://shiptalkers.dev/compare?github=will-wright-eng&twitter=willwrighteng)
 
 <!--
 **will-wright-eng/will-wright-eng** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,9 +18,3 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
-![compare.png](https://github.com/will-wright-eng/will-wright-eng/blob/main/compare.png?raw=true)
-
-@willwrighteng spends 90633% more time coding than tweeting
-
-[Compare](https://shiptalkers.dev/compare?github=will-wright-eng&twitter=willwrighteng)
